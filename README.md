@@ -1,3 +1,3 @@
 # yutanir.github.io
 
-https://cdn.midjourney.com/0916228d-f6d1-4b58-8aa8-3a7c5e55c930/0_3.png
+![0_3](https://github.com/yutanir/yutanir.github.io/assets/26860745/72898a92-51d7-44ec-a7a0-8ce390309e0f)
