@@ -8,6 +8,7 @@
 <a href="https://note.com/yutanir">note</a> <br>
 <a href="https://open.spotify.com/user/w0b6dyh9i5lyg2imkvuwnf0za">Spotify</a> <br>
 <a href="https://youtube.com/@yutanir">YouTube</a> <br>
+<a href="https://github.com/yutanir">GitHub</a> <br>
 <br>
 <center>
 <img width= 1000 src="https://github.com/yutanir/yutanir.github.io/assets/26860745/520cb63d-bf41-41cf-ae80-12f2ee988a82">
