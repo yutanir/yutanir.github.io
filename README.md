@@ -1,4 +1,16 @@
 # yutanir.github.io
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RR9Q7398XP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RR9Q7398XP');
+</script>  
+</head>
+<body>
 <center>
 <img width=500 src="https://github.com/yutanir/yutanir.github.io/assets/26860745/79dadc3d-80e6-4cc3-acca-7ef8ec510aca">
 </center>
@@ -13,3 +25,4 @@
 <center>
 <img width= 1000 src="https://github.com/yutanir/yutanir.github.io/assets/26860745/520cb63d-bf41-41cf-ae80-12f2ee988a82">
 </center>
+</body>
